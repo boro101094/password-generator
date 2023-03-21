@@ -27,3 +27,4 @@ with certain criteria that the user selects or specifies like:
 ![](./assets/img/pass4.png) 
 
 ## Deployed Application
+https://boro101094.github.io/password-generator/
