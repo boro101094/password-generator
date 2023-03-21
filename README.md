@@ -13,5 +13,17 @@ with certain criteria that the user selects or specifies like:
 
 ## Screenshot
 
+# Initial Screen
+![](./assets/img/pass1.png) 
+
+# Criteria Selection
+
+![](./assets/img/pass2.png) 
+
+# Error message
+![](./assets/img/pass3.png) 
+
+# Generated Password
+![](./assets/img/pass4.png) 
 
 ## Deployed Application
